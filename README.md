@@ -13,7 +13,7 @@ A curated list of multiplatform [libraries](#libraries) & [resouces](#resouces) 
 * [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization)
 
 ## Resouces
-- Kottlin-Native learning resouces
+- Kotlin-Native learning resouces
 
 ## Contributing
 Your contributions are always welcome! [Please read the contribution guidelines](https://github.com/bipinvaylu/awesome-kotlin-native/blob/master/contributing.md#contribution-guidelines) first.
