@@ -1,5 +1,5 @@
 # Kotlin-Native-Awesome
-List of awesome kotlin/native cross-platform libraries
+A curated list of multiplatform [libraries](#libraries) & [resouces](#resouces) that support Android/iOS
 
 # Contents
 * [Libraries](#libraries)
