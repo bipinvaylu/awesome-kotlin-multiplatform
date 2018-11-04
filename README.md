@@ -14,6 +14,7 @@ A curated list of multiplatform [libraries](#libraries) & [resouces](#resouces) 
 |[Ktor](https://github.com/ktorio/ktor) - Framework for quickly creating web applications in Kotlin with minimal effort. Starting with 0.9.4, Ktor HTTP Client supports [several platforms](https://ktor.io/clients/http-client/multiplatform.html), using the multiplatform support.|Java, Android, JS, iOS, macOS|
 |[Multiplatform Settings](https://github.com/russhwolf/multiplatform-settings) - Library for Multiplatform mobile apps, so that common code can persist key-value data. It stores things using SharedPreferences on Android and NSUserDefaults on iOS.|Android, iOS, macOS|
 |[Kotlin/Native Architecture Database](https://github.com/touchlab/knarch.db) - Primarily an implementation of sqlite for iOS and MacOS, (roughly) compatible with Android, implemented with Kotlin/Native, to faciliate Kotlin multiplatform development.|Android, iOS, macOS|
+|[LocoLaser](https://github.com/PocketByte/locolaser-kotlin-mpp-example) - Localization tool that able to generate Strings Repository class with common interface for both mobile platforms: Android and iOS.|Android, iOS, macOS|
 
 ## Resouces
 - Kotlin-Native learning resouces
