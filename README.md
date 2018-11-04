@@ -7,7 +7,6 @@ A curated list of multiplatform [libraries](#libraries) & [resouces](#resouces) 
 * [Contributing](#contributing)
 
 ## Libraries
-* [Http Client Common](https://github.com/e5l/http-client-common)
 * [Multiplatform Settings](https://github.com/russhwolf/multiplatform-settings)
 * [Kotlin/Native Architecture Database](https://github.com/touchlab/knarch.db)
 * [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization)
