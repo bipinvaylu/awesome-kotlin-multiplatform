@@ -17,6 +17,7 @@ A curated list of multiplatform [libraries](#libraries) & [resouces](#resouces) 
 |[LocoLaser](https://github.com/PocketByte/locolaser-kotlin-mpp-example) - Localization tool that able to generate Strings Repository class with common interface for both mobile platforms: Android and iOS.|Android, iOS, macOS|
 |[suparnatural-threading](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/threading-core) - Convenient APIs for multi-platform multithreading on `iOS` and `Android`.|Android, iOS|
 |[suparnatural-fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs-core) - Kotlin Multi Platform File System access library for `iOS` and `Android`.|Android, iOS|
+|[suparnatural-cache](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache-core) - A superfast, thread safe in-memory cache with configurable hashing schemes backed by persistent stores with blocking/non-blocking I/O.|Android, iOS|
 
 ## Resouces
 - Kotlin-Native learning resouces
