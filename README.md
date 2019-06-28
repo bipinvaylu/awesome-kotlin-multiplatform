@@ -16,6 +16,7 @@ A curated list of multiplatform [libraries](#libraries) & [resouces](#resouces) 
 |[SQLiter](https://github.com/touchlab/SQLiter) - SQLiter is a SQLite driver for Kotlin Multiplatform, with the intended targets of JVM/Android and all flavors of Native that support the sqlite3 c libraries.|Android, iOS, macOS|
 |[LocoLaser](https://github.com/PocketByte/locolaser-kotlin-mpp-example) - Localization tool that able to generate Strings Repository class with common interface for both mobile platforms: Android and iOS.|Android, iOS, macOS|
 |[suparnatural-threading](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/threading-core) - Convenient APIs for multi-platform multithreading on `iOS` and `Android`.|Android, iOS|
+|[suparnatural-fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs-core) - Kotlin Multi Platform File System access library for `iOS` and `Android`.|Android, iOS|
 
 ## Resouces
 - Kotlin-Native learning resouces
