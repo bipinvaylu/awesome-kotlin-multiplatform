@@ -1,5 +1,5 @@
 # Kotlin-Native-Awesome
-A curated list of multiplatform [libraries](#libraries) & [resouces](#resouces) that support full stack: Mobile(Android/iOS), Web(JavaScript), Backed and Desktop.
+A curated list of Kotlin/Native multiplatform [libraries](#libraries) & [resouces](#resouces) that support full stack: Mobile(Android/iOS), Web(JavaScript), Backed and Desktop.
 
 # Contents
 * [Libraries](#libraries)
