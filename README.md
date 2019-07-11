@@ -1,7 +1,8 @@
 # Kotlin-Native-Awesome
-A curated list of Kotlin/Native and Multiplatform [libraries](#libraries) & [resouces](#resouces) that support full stack: Mobile(Android/iOS), Web(JavaScript), Backend and Desktop.
 
-> This repository will be archived soon and we are now moving to new repository which will have all the [Awesomeness of Kotlin Multiplatform](https://github.com/bipinvaylu/awesome-kotlin-multiplatform), Which means Native + JVM + JS.
+This repository will be archived soon and we are now moving to new repository which will have all the [Awesomeness of Kotlin Multiplatform](https://github.com/bipinvaylu/awesome-kotlin-multiplatform), Which means Native + JVM + JS.
+
+A curated list of Kotlin/Native and Multiplatform [libraries](#libraries) & [resouces](#resouces) that support full stack: Mobile(Android/iOS), Web(JavaScript), Backend and Desktop.
 
 # Contents
 * [Libraries](#libraries)
