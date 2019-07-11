@@ -19,7 +19,7 @@ A curated list of Kotlin/Native and Multiplatform [libraries](#libraries) & [res
 |[suparnatural-fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs-core) - Kotlin Multi Platform File System access library for `iOS` and `Android`.|Android, iOS|
 |[suparnatural-cache](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache-core) - A superfast, thread safe in-memory cache with configurable hashing schemes backed by persistent stores with blocking/non-blocking I/O.|Android, iOS|
 
-## Resource
+## Resources
 - Kotlin-Native learning resouces
 
 ## Contributing
