@@ -22,9 +22,9 @@ A curated list of Kotlin Multiplatform [libraries](#libraries) & [resources](#re
 |[SQLiter](https://github.com/touchlab/SQLiter) - SQLiter is a SQLite driver for Kotlin Multiplatform, with the intended targets of JVM/Android and all flavors of Native that support the sqlite3 c libraries.|Java, Android, iOS, macOS, Windows|
 |[SQLDelight](https://github.com/square/sqldelight) - Generates typesafe APIs from your SQL statements. It compile-time verifies your schema, statements, and migrations and provides IDE features like autocomplete and refactoring which make writing and maintaining SQL simple.|Java, Android, iOS|
 |[LocoLaser](https://github.com/PocketByte/locolaser-kotlin-mpp-example) - Localization tool that able to generate Strings Repository class with common interface for both mobile platforms: Android and iOS.|Android, iOS, macOS|
-|[suparnatural-threading](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/threading-core) - Convenient APIs for multi-platform multithreading on `iOS` and `Android`.|Android, iOS|
-|[suparnatural-fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs-core) - Kotlin Multi Platform File System access library for `iOS` and `Android`.|Android, iOS|
-|[suparnatural-cache](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache-core) - A superfast, thread safe in-memory cache with configurable hashing schemes backed by persistent stores with blocking/non-blocking I/O.|Android, iOS|
+|[suparnatural-concurrency](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/concurrency) - Convenient APIs for multi-platform multithreading on `iOS` and `Android`.|Android, iOS|
+|[suparnatural-fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - Kotlin Multi Platform File System access library for `iOS` and `Android`.|Android, iOS|
+|[suparnatural-cache](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache) - A superfast, thread safe in-memory cache with configurable hashing schemes backed by persistent stores with blocking/non-blocking I/O.|Android, iOS|
 |[Hydra Log](https://github.com/PocketByte/kotlin-hydra-log) - Allows to write logs in common module. The way how logs will written defines for each platform independently.|Java, Android, Android NDK, JS, iOS, macOS, Linux|
 
 ## Resources
