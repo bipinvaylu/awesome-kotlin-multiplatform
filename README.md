@@ -14,6 +14,7 @@ A curated list of Kotlin Multiplatform [libraries](#libraries) & [resources](#re
 ## Libraries
 |Name and Description|Supported Platforms|
 |:-|:-|
+|[Atrium](https://atriumlib.org) - Assertion library | Java, Android, JS|
 |[Kotlinx Coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines with multiplatform support.|Java, Android, Android NDK, JS, iOS, macOS, Linux, Windows|
 |[Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin serialization consists of a compiler plugin, which automatically produces visitor code for classes, and runtime library, which uses generated code to serialize objects without reflection.|Java, Android, Android NDK, JS, iOS, macOS, Linux, Windows|
 |[Kotlin IO](https://github.com/Kotlin/kotlinx-io) - Multiplatform library suitable for I/O primitives building and manipulations.|Java, Android, JS, iOS, macOS, Linux, Windows|
