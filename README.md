@@ -29,6 +29,7 @@ A curated list of Kotlin Multiplatform [libraries](#libraries) & [resources](#re
 |[suparnatural-fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - Kotlin Multi Platform File System access library for `iOS` and `Android`.|Android, iOS|
 |[suparnatural-cache](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache) - A superfast, thread safe in-memory cache with configurable hashing schemes backed by persistent stores with blocking/non-blocking I/O.|Android, iOS|
 |[Hydra Log](https://github.com/PocketByte/kotlin-hydra-log) - Allows to write logs in common module. The way how logs will written defines for each platform independently.|Java, Android, Android NDK, JS, iOS, macOS, Linux|
+|[KorGE](https://korge.org/) - Modern Game Engine created designed to be extremely portable and really enjoyable to use.|Java, Android, JS, iOS, macOS, Linux, Windows|
 
 ## Resources
 - Kotlin-Native learning resouces
