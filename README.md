@@ -28,6 +28,7 @@ A curated list of Kotlin Multiplatform [libraries](#libraries) & [resources](#re
 |[suparnatural-concurrency](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/concurrency) - Convenient APIs for multi-platform multithreading on `iOS` and `Android`.|Android, iOS|
 |[suparnatural-fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - Kotlin Multi Platform File System access library for `iOS` and `Android`.|Android, iOS|
 |[suparnatural-cache](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache) - A superfast, thread safe in-memory cache with configurable hashing schemes backed by persistent stores with blocking/non-blocking I/O.|Android, iOS|
+|[Biometric SDK](https://github.com/biometric-technologies/biometric-sdk) - Iris and face recognition: iris segmentation, template encoding and matching in common Kotlin, face embedding and liveness with TensorFlow Lite, ISO/IEC 19794 biometric records. Published to Maven Central and CocoaPods.|Java, Android, iOS|
 |[Hydra Log](https://github.com/PocketByte/kotlin-hydra-log) - Allows to write logs in common module. The way how logs will written defines for each platform independently.|Java, Android, Android NDK, JS, iOS, macOS, Linux|
 
 ## Resources
